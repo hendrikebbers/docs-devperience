@@ -4,7 +4,7 @@ Every [Hiero compatible SDK](hiero-compatibility.md) can be used to burn a token
 
 ## Transaction Fees
 
-- Please see the transaction and query [fees]() table for base transaction fee
+- Please see the transaction and query [fees](fees.md) table for base transaction fee
 - Please use the [Hedera fee estimator :arrow_upper_right:]() to estimate your transaction fee cost
 
 ## Tutorials
