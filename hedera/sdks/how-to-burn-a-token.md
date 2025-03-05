@@ -1,6 +1,6 @@
 # How to burn a token
 
-Every [Hiero compatible SDK](hiero-compatibility.md) can be used to burn a token by using a [TokenBurnTransaction :arrow_upper_right:](../../hiero/sdk/TokenBurnTransaction.md)
+Every [Hiero compatible SDK](hiero-compatibility.md) can be used to burn a token on Hedera by using a [TokenBurnTransaction :arrow_upper_right:](../../hiero/sdk/TokenBurnTransaction.md)
 
 ## Transaction Fees
 
