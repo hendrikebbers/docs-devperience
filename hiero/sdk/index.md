@@ -4,9 +4,9 @@ This is the landingpage of the Hiero SDK documentation.
 
 ## Languages and SDKs
 
-- Java SDK
-- Go SDK
-- JavaScript SDK
+- [Java SDK](java.md)
+- [Go SDK](go.md)
+- [JavaScript SDK](js.md)
 
 ## Networks
 
