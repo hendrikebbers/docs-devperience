@@ -14,7 +14,7 @@ This is the landingpage of the Hiero SDK documentation.
 
 ## Protobuff
 
-This part of the documentation is generated based on [protobufs.hiero.org](https://hashgraph.github.io/hedera-protobufs/ :arrow_upper_right:).
+This part of the documentation is generated based on [protobufs.hiero.org :arrow_upper_right:](https://hashgraph.github.io/hedera-protobufs/).
 
 - [TokenBurn](api/TokenBurn.md)
 
