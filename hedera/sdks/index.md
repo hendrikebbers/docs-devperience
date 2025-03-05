@@ -4,14 +4,20 @@ This is the landing page for all documentation regarding interacting with an Hed
 
 ## General
 
+Some general documentation
+
 - [Compatibility with Hiero](hiero-compatibility.md)
 - [Hedera Transaction Fees](fees.md)
 
-## Usecases
+## Basic Usecases
+
+All the different basic usecases of the Hedera network. 
 
 - [Burning a token](how-to-burn-a-token.md)
 
 ## Tutorials
+
+More concrete tutorials
 
 - [Working with Tokens on Hedera]()
 
