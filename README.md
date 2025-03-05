@@ -1,2 +1,3 @@
 # docs-devperience
-Developer Experience for docs
+
+Evaluating a good developer experience for Hedera and Hiero regarding documentation
