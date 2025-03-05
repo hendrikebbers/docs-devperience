@@ -19,6 +19,17 @@ This transaction accepts zero unit token burn operations for fungible tokens (se
 > [!IMPORTANT]
 > Transaction Fees of a TokenBurnTransaction transaction can be network specific. As a reference you can have a look at the [Hedera transaction and query fees table :arrow_upper_right:]() for base transaction fee.
 
+## Support Matrix
+
+This matrix given an overview of the support state regarding different SDKs and public networks. We try to keep this updated for all networks that activly contribute to Hiero
+
+| Network |  Supported     | Notes                        |
+| ----------------- | --------- | ---------------------------------- |
+| [Hedera Mainnet :arrow_upper_right:]()    | `true` |  |
+| [Hedera Testnet :arrow_upper_right:]()    | `true` |  |
+| [Hedera Previewnet :arrow_upper_right:]() | `true` |  |
+| [Edu-Net :arrow_upper_right:]() | `true` | Only the 2.0 Release and never versions support it |
+
 ## Methods
 
 | Method                | Type      | Description                        | Supported | Requirement |
