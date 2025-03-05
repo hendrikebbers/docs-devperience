@@ -21,4 +21,29 @@ This transaction accepts zero unit token burn operations for fungible tokens (se
 
 | Method                | Type      | Description                        | Supported | Requirement |
 | --------------------- | --------- | ---------------------------------- | --------- | ----------- |
-| setTokenId(<tokenId>) | [TokenId]()   | The ID of the token to burn supply | [`GO` :arrow_upper_right:](), [`JAVA` :arrow_upper_right:](), [`JS` :arrow_upper_right:]() | true |
+| `setTokenId(<tokenId>)` | [`TokenId`]()   | The ID of the token to burn supply | [`GO` :arrow_upper_right:](), [`JAVA` :arrow_upper_right:](), [`JS` :arrow_upper_right:]() | true |
+
+## Examples
+
+Java | JS | Go | Rust | Swift |
+```
+//Burn 1,000 tokens and freeze the unsigned transaction for manual signing
+const transaction = await new TokenBurnTransaction()
+     .setTokenId(tokenId)
+     .setAmount(1000)
+     .freezeWith(client);
+
+//Sign with the supply private key of the token 
+const signTx = await transaction.sign(supplyKey);
+
+//Submit the transaction to a Hedera network    
+const txResponse = await signTx.execute(client);
+
+//Request the receipt of the transaction
+const receipt = await txResponse.getReceipt(client);
+    
+//Get the transaction consensus status
+const transactionStatus = receipt.status;
+
+console.log("The transaction consensus status " +transactionStatus.toString());
+```
