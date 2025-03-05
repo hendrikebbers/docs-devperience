@@ -14,7 +14,7 @@ This is a network independent documentation of the Hiero SDKs.
 All functionality that is part of this documentation is agnostic and can therefore be used with every network / DLT that is based on Hiero.
 Some of those networks provide additional network specific public documentation:
 
-- [Hedera :arrow_upper_right:](../hedera/sdks/index.md)
+- [Hedera :arrow_upper_right:](../hedera/)
 
 ## Transactions
 
