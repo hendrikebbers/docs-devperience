@@ -21,7 +21,7 @@ This transaction accepts zero unit token burn operations for fungible tokens (se
 
 ## Support Matrix
 
-This matrix given an overview of the support state regarding different SDKs and public networks. We try to keep this updated for all networks that activly contribute to Hiero
+This matrix given an overview of the support state regarding different SDKs and public networks. We try to keep this updated for all networks that activly contribute to Hiero.
 
 | Network |  Supported     | Notes                        |
 | ----------------- | --------- | ---------------------------------- |
@@ -30,11 +30,17 @@ This matrix given an overview of the support state regarding different SDKs and 
 | [Hedera Previewnet :arrow_upper_right:]() | `true` |  |
 | [Edu-Net :arrow_upper_right:]() | `true` | Only the 2.0 Release and never versions support it |
 
+| SDK |  Supported     | Notes                        |
+| ----------------- | --------- | ---------------------------------- |
+| [`GO`](go.md)    | `true` |  |
+| [`JAVA`](java.md)    | `true` |  |
+| [`JS`](js.md) | `true` |  |
+
 ## Methods
 
-| Method                | Type      | Description                        | Supported | Requirement |
-| --------------------- | --------- | ---------------------------------- | --------- | ----------- |
-| `setTokenId(<tokenId>)` | [`TokenId`]()   | The ID of the token to burn supply | [`GO`](go.md), [`JAVA`](java.md), [`JS`](js.md) | true |
+| Method                | Type      | Description                        | Requirement | 
+| --------------------- | --------- | ---------------------------------- | --------- |
+| `setTokenId(<tokenId>)` | [`TokenId`]()   | The ID of the token to burn supply |true |
 
 ## Examples
 
