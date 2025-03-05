@@ -13,8 +13,8 @@ This transaction accepts zero unit token burn operations for fungible tokens (se
 
 ## Transaction Signing Requirements
 
-- [Supply key]()
-- [Transaction fee payer account key]()
+- Supply key
+- Transaction fee payer account key
 
 > [!IMPORTANT]
 > Transaction Fees of a TokenBurnTransaction transaction can be network specific. As a reference you can have a look at the [Hedera transaction and query fees table :arrow_upper_right:]() for base transaction fee.
