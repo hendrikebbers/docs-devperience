@@ -4,6 +4,8 @@ This is the landingpage of the Hiero SDK documentation.
 
 ## Languages and SDKs
 
+The different SDK implementations that are provided by Hiero
+
 - [Java SDK](java.md)
 - [Go SDK](go.md)
 - [JavaScript SDK](js.md)
@@ -17,6 +19,8 @@ Some of those networks provide additional network specific public documentation:
 - [Hedera :arrow_upper_right:](../../hedera/sdks/index.md)
 
 ## Transactions
+
+The different Transaction types that are provided by SDKs
 
 - [TokenBurnTransaction](TokenBurnTransaction.md)
 
