@@ -23,18 +23,19 @@ This transaction accepts zero unit token burn operations for fungible tokens (se
 
 This matrix given an overview of the support state regarding different SDKs and public networks. We try to keep this updated for all networks that activly contribute to Hiero.
 
+| SDK |  Supported     | Notes                        |
+| ----------------- | --------- | ---------------------------------- |
+| [`GO`](go.md)    | `true` |  |
+| [`JAVA`](java.md)    | `true` |  |
+| [`JS`](js.md) | `true` |  |
+
+
 | Network |  Supported     | Notes                        |
 | ----------------- | --------- | ---------------------------------- |
 | [Hedera Mainnet :arrow_upper_right:]()    | `true` |  |
 | [Hedera Testnet :arrow_upper_right:]()    | `true` |  |
 | [Hedera Previewnet :arrow_upper_right:]() | `true` |  |
 | [Edu-Net :arrow_upper_right:]() | `true` | Only the 2.0 Release and never versions support it |
-
-| SDK |  Supported     | Notes                        |
-| ----------------- | --------- | ---------------------------------- |
-| [`GO`](go.md)    | `true` |  |
-| [`JAVA`](java.md)    | `true` |  |
-| [`JS`](js.md) | `true` |  |
 
 ## Methods
 
