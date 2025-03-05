@@ -5,6 +5,7 @@ This is the landing page for all documentation regarding interacting with an Hed
 ## General
 
 - [Compatibility with Hiero](hiero-compatibility.md)
+- [Hedera Transaction Fees](fees.md)
 
 ## Usecases
 
