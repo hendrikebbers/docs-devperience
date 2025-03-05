@@ -12,5 +12,5 @@ The following table gives an overview of all thsoe supported SDKs:
 
 | SDK |  Supported     |
 | ----------------- | --------- |
-| [Hiero Go SDK :arrow_upper_right:]()    | `true` | 
-| [Hiero Java SDK :arrow_upper_right:]()    | `true` | 
+| [Hiero Go SDK :arrow_upper_right:](../../hiero/sdk/go.md)    | `true` | 
+| [Hiero Java SDK :arrow_upper_right:](../../hiero/sdk/java.md)    | `true` | 
