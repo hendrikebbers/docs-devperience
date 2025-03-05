@@ -11,4 +11,4 @@ Every [Hiero compatible SDK](hiero-compatibility.md) can be used to burn a token
 
 The following Tutorials make use of burning a token:
 
-- [Working with Tokens on Hedera]()
+- [Working with Tokens on Hedera](tokens-tutorial.md)
