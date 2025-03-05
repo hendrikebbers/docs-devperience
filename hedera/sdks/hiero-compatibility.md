@@ -1,7 +1,8 @@
 # Hiero compatibility
 
 The Hedera network is build on the sources of Hiero.
-Hiero is a project of the LFDT and defined standards for hasgraph based ditrsibuted ledgers / networks.
+Hiero is a project of the LFDT and defined standards for hashgraph based distributed ledgers / networks.
+A general documentation of Hiero can be found [here :arrow_upper_right:](../../hiero/sdk/index.md).
 
 ## Hiero SDKs
 
