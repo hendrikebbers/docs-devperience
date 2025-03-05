@@ -1,5 +1,7 @@
 # TokenBurnTransaction
 
+Transaction that is based on the protocol definition of [TokenBurn](api/TokenBurn.md)
+
 Burns fungible and non-fungible tokens owned by the Treasury Account. If no Supply Key is defined, the transaction will resolve to [`TOKEN_HAS_NO_SUPPLY_KEY`]().
 The operation decreases the Total Supply of the Token.
 Total supply cannot go below zero.
