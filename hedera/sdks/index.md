@@ -19,5 +19,5 @@ All the different basic usecases of the Hedera network.
 
 More concrete tutorials
 
-- [Working with Tokens on Hedera]()
+- [Working with Tokens on Hedera](tokens-tutorial.md)
 
