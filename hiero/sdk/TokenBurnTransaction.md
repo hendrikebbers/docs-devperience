@@ -34,7 +34,7 @@ This matrix given an overview of the support state regarding different SDKs and 
 
 | Method                | Type      | Description                        | Supported | Requirement |
 | --------------------- | --------- | ---------------------------------- | --------- | ----------- |
-| `setTokenId(<tokenId>)` | [`TokenId`]()   | The ID of the token to burn supply | [`GO` :arrow_upper_right:](), [`JAVA` :arrow_upper_right:](), [`JS` :arrow_upper_right:]() | true |
+| `setTokenId(<tokenId>)` | [`TokenId`]()   | The ID of the token to burn supply | [`GO`](go.md), [`JAVA`](java.md), [`JS`](js.md) | true |
 
 ## Examples
 
