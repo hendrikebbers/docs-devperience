@@ -11,13 +11,13 @@ The amount provided must be in the lowest denomination possible.
 Example: Token A has 2 decimals. In order to burn 100 tokens, one must provide an amount of 10000. In order to burn 100.55 tokens, one must provide an amount of 10055.
 This transaction accepts zero unit token burn operations for fungible tokens (see [HIP-564 :arrow_upper_right:]())
 
+> [!IMPORTANT]
+> Transaction Fees of a TokenBurnTransaction transaction can be network specific. As a reference you can have a look at the [Hedera transaction and query fees table :arrow_upper_right:]() for base transaction fee.
+
 ## Transaction Signing Requirements
 
 - Supply key
 - Transaction fee payer account key
-
-> [!IMPORTANT]
-> Transaction Fees of a TokenBurnTransaction transaction can be network specific. As a reference you can have a look at the [Hedera transaction and query fees table :arrow_upper_right:]() for base transaction fee.
 
 ## Support Matrix
 
